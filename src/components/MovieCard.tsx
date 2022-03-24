@@ -16,6 +16,7 @@ export function MovieCard(props: MovieCardProps) {
         src={props.poster}
         alt={props.title}
       />
+      
 
       <div>
         <div className="movie-info">
